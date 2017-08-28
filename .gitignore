@@ -1,0 +1,4 @@
+# exclude files or dir :
+vendor/
+composer.lock
+git.txt
